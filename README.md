@@ -1,14 +1,13 @@
 # Subtl
 
-A simple and straight to the point dating app.\
-&nbsp;
+A simple and straight to the point dating app.<br>
 
 ![Made with love in United States](https://madewithlove.now.sh/us?heart=true&template=for-the-badge)<br>
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)     
 
 ## Link
 
-[![forthebadge](assets/subtl.svg)](https://subtl-app.herokuapp.com/)
+[![forthebadge](assets/subtl.svg)](https://subtl-app.herokuapp.com/register/)
 
 ## Reason
 
@@ -83,4 +82,4 @@ to continue to live their lives the same way and still find love.
 <br>
 Join the server and tell me how you can help! This app is written in Django.<br>
 I am looking for help with the UI. Current UI is in HTML, CSS, and JavaScript.<br>
-I would like to have Flutter for the UI and Django-REST-Framework for the API.<br>
+I would like to have Flutter for the UI and Django-REST-Framework for the API.
